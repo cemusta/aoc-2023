@@ -13,9 +13,9 @@ For information about Advent of Code check here: <https://adventofcode.com/2023/
 
 ## Progress
 
-0 out of 50 stars.
+2 out of 50 stars.
 
-![progress bar 0 percent](https://progress-bar.dev/0)
+![progress bar 4 percent](https://progress-bar.dev/4)
 
 ## Running locally
 
@@ -28,7 +28,7 @@ npm install
 npm i ts-node -g
 ```
 
-You can run solutions with
+You can run solutions with `ts-node` like this
 
 ```bash
 ts-node ./src/day1.solve.ts
